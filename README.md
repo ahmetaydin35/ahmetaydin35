@@ -13,6 +13,8 @@
 <p align="left">
 <a href="mailto:ahm3t35@gmail.com"><img align="left" alt="ahmet | GMail" width="30px" src="https://user-images.githubusercontent.com/75525090/159127016-3e4d9b5f-0478-4667-ab64-8a330d00bdae.png" />
   <a href="https://linkedin.com/in/ahmetaydin35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmetaydin35" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/23983958/ahmet-aydin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/23983958/ahmet-aydin" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
