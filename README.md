@@ -4,6 +4,11 @@
 
 - 🌱 I’m currently learning Node JS
 
+- 👯 I’m looking to collaborate on React JS projects.
+
+- 🥅 2024 Goals: Dive deeper into Open Source contributions.
+
+- ⚡ Fun fact: I spend most of my time learning new technologies.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:ahm3t35@gmail.com"><img align="left" alt="ahmet | GMail" width="30px" src="https://user-images.githubusercontent.com/75525090/159127016-3e4d9b5f-0478-4667-ab64-8a330d00bdae.png" />
