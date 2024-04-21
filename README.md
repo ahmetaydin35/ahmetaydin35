@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Full Stack projects.
 
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning Next JS
 
 - 👯 I’m looking to collaborate on React JS projects.
 
