@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Next JS
 
-- 👯 I’m looking to collaborate on React JS projects.
+- 👯 I’m looking to collaborate on Full Stack projects.
 
 - 🥅 2024 Goals: Dive deeper into Open Source contributions.
 
