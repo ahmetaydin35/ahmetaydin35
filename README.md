@@ -41,7 +41,7 @@
 ###
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetaydin35&" alt="ahmetaydin35" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=ahmetaydin35&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="ahmetaydin35" /></p>
 
 
 
