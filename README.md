@@ -37,7 +37,7 @@
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/prisma/2D3748" alt="prisma" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://expo.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=256&id=N36PWvvxrXUU&format=png" alt="expo" width="40" height="40"/> </a> </p>
+<a href="https://expo.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=256&id=hmieDPifBlBM&format=png" alt="expo" width="40" height="40"/> </a> </p>
 
 
 ###
