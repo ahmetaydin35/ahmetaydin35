@@ -44,7 +44,7 @@
 ###
 
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=ahmetaydin35&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=4&order=3" alt="ahmetaydin35" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=ahmetaydin35&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=4&order=3" alt="ahmetaydin35" /></p>
 
 
 
