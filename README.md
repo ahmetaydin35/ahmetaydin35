@@ -38,7 +38,8 @@
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/prisma/2D3748" alt="prisma" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a>
 <a href="https://expo.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=256&id=hmieDPifBlBM&format=png" alt="expo" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/docker/2496ED" alt="docker" width="40" height="40"/> </p>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/docker/2496ED" alt="docker" width="40" height="40"/> 
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a></p>
 
 
 ###
