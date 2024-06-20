@@ -36,7 +36,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/prisma/2D3748" alt="prisma" width="40" height="40"/> </a> 
-<a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/> </a> 
+<a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/sequelize/52B0E7" alt="sequelize" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a>
 <a href="https://expo.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=256&id=hmieDPifBlBM&format=png" alt="expo" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/docker/2496ED" alt="docker" width="40" height="40"/> 
