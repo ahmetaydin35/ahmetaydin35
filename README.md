@@ -43,7 +43,8 @@
 <a href="https://expo.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=256&id=hmieDPifBlBM&format=png" alt="expo" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/docker/2496ED" alt="docker" width="40" height="40"/> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://pptr.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a></p>
+<a href="https://pptr.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a>
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/jest/C21325" alt="jest" width="40" height="40"/> </a></p>
 
 
 ###
