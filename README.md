@@ -38,7 +38,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/prisma/2D3748" alt="prisma" width="40" height="40"/> </a> 
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/sequelize/52B0E7" alt="sequelize" width="40" height="40"/> </a> 
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/redis/DC382D" alt="redis" width="40" height="40"/> </a> 
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a>
 <a href="https://expo.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=256&id=hmieDPifBlBM&format=png" alt="expo" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/docker/2496ED" alt="docker" width="40" height="40"/> 
