@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on Full Stack projects.
 
-- 🥅 2025 Goals: Dive deeper into Open Source contributions.
+- 🥅 2026 Goals: Dive deeper into Open Source contributions.
 
 - ⚡ Fun fact: I spend most of my time learning new technologies.
 <h3 align="left">Connect with me:</h3>
